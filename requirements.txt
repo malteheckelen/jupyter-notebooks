@@ -1,0 +1,9 @@
+ string
+ re
+ nltk
+ pandas
+ numpy
+ sklearn
+ gensim
+ pyLDAvis
+ spacy
